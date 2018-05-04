@@ -1,1 +1,0 @@
-模拟Vue双向绑定，剖析Vue双向绑定的原理：通过defineProperty设置get、set方法实现
